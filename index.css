@@ -92,6 +92,16 @@
     font-size: 32px;
 }
 
+.pexels {
+    display: block;
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    color: #000;
+}
+
 
 /*Nota posicionar elementos en el centro con absolute
     top: 0;
